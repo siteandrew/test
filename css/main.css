@@ -1,0 +1,125 @@
+/* line 5, D:/ЗАДАНИЕ/Бутстрап ленд/старт/_clean_sass/css/sass/main.sass */
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+  font-weight: normal;
+  font-size: 14px;
+  min-width: 320px;
+  position: relative;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialised; }
+
+/* line 14, D:/ЗАДАНИЕ/Бутстрап ленд/старт/_clean_sass/css/sass/main.sass */
+h1, h2 {
+  margin: 0; }
+
+/* line 17, D:/ЗАДАНИЕ/Бутстрап ленд/старт/_clean_sass/css/sass/main.sass */
+section {
+  padding: 58px 0; }
+
+/* line 21, D:/ЗАДАНИЕ/Бутстрап ленд/старт/_clean_sass/css/sass/main.sass */
+body input:focus:required:invalid, body textarea:focus:required:invalid {
+  color: red; }
+
+/* line 24, D:/ЗАДАНИЕ/Бутстрап ленд/старт/_clean_sass/css/sass/main.sass */
+body input:required:valid, body textarea:required:valid {
+  color: green; }
+
+/* line 27, D:/ЗАДАНИЕ/Бутстрап ленд/старт/_clean_sass/css/sass/main.sass */
+.hidden {
+  display: none; }
+
+/***** HEADER *****/
+/* line 32, D:/ЗАДАНИЕ/Бутстрап ленд/старт/_clean_sass/css/sass/main.sass */
+header {
+  min-height: 512px;
+  background-color: #9D274C;
+  color: #fff; }
+
+/* line 37, D:/ЗАДАНИЕ/Бутстрап ленд/старт/_clean_sass/css/sass/main.sass */
+.logo {
+  padding-top: 65px;
+  text-align: right;
+  margin-right: 49px; }
+
+/* line 42, D:/ЗАДАНИЕ/Бутстрап ленд/старт/_clean_sass/css/sass/main.sass */
+.top-descr h1 {
+  margin-top: 26px;
+  margin-left: 66px;
+  font-size: 16px;
+  letter-spacing: 0.1px;
+  font-weight: 600;
+  text-transform: uppercase; }
+
+/* line 50, D:/ЗАДАНИЕ/Бутстрап ленд/старт/_clean_sass/css/sass/main.sass */
+.top-descr h2 {
+  margin-left: 66px;
+  font-size: 38px;
+  font-weight: 300;
+  line-height: 1.3;
+  letter-spacing: 0.6px; }
+
+/* line 57, D:/ЗАДАНИЕ/Бутстрап ленд/старт/_clean_sass/css/sass/main.sass */
+.header-feature {
+  margin-top: 34px;
+  margin-left: 66px; }
+
+/* line 62, D:/ЗАДАНИЕ/Бутстрап ленд/старт/_clean_sass/css/sass/main.sass */
+.header-feature a {
+  margin-right: 29px;
+  text-decoration: none;
+  color: #fff;
+  font-size: 12px;
+  text-transform: uppercase; }
+  /* line 68, D:/ЗАДАНИЕ/Бутстрап ленд/старт/_clean_sass/css/sass/main.sass */
+  .header-feature a:hover {
+    color: #000; }
+
+/* line 71, D:/ЗАДАНИЕ/Бутстрап ленд/старт/_clean_sass/css/sass/main.sass */
+.header-feature img {
+  margin-right: 8px; }
+
+/* line 74, D:/ЗАДАНИЕ/Бутстрап ленд/старт/_clean_sass/css/sass/main.sass */
+.btn {
+  border: none;
+  cursor: pointer;
+  display: inline-block;
+  height: 35px;
+  line-height: 32px;
+  padding: 0 33px;
+  background-color: #fff;
+  color: #9D274C;
+  border-radius: 1px; }
+
+/* line 85, D:/ЗАДАНИЕ/Бутстрап ленд/старт/_clean_sass/css/sass/main.sass */
+a.btn {
+  text-decoration: none; }
+  /* line 87, D:/ЗАДАНИЕ/Бутстрап ленд/старт/_clean_sass/css/sass/main.sass */
+  a.btn:hover {
+    color: #000; }
+
+/* line 90, D:/ЗАДАНИЕ/Бутстрап ленд/старт/_clean_sass/css/sass/main.sass */
+.btn-wrap {
+  margin-top: 49px;
+  margin-left: 67px; }
+
+/***** MAIN-FEATURE *****/
+/* line 97, D:/ЗАДАНИЕ/Бутстрап ленд/старт/_clean_sass/css/sass/main.sass */
+.main-feature {
+  margin-top: 40px;
+  margin-top-margin-left: 56px;
+  color: #282c37;
+  text-align: center;
+  letter-spacing: 0.1px; }
+
+/* line 105, D:/ЗАДАНИЕ/Бутстрап ленд/старт/_clean_sass/css/sass/main.sass */
+.feature {
+  margin-bottom: 40px; }
+
+/* line 108, D:/ЗАДАНИЕ/Бутстрап ленд/старт/_clean_sass/css/sass/main.sass */
+.feature-fix {
+  margin-bottom: 40px; }
+
+/* line 111, D:/ЗАДАНИЕ/Бутстрап ленд/старт/_clean_sass/css/sass/main.sass */
+.feature-fix img {
+  margin-bottom: 17px; }
